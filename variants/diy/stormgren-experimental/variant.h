@@ -8,7 +8,7 @@
 #undef GPS_RX_PIN
 // #define GPS_RX_PIN 15
 
-define BUTTON_PIN 2 // The middle button GPIO on the T-Beam
+#define BUTTON_PIN 2 // The middle button GPIO on the T-Beam
 #define BUTTON_NEED_PULLUP
 #define EXT_NOTIFY_OUT 12 // Overridden default pin to use for Ext Notify Module (#975).
 
