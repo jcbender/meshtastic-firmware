@@ -10,9 +10,8 @@
 
 This repository contains the device firmware for the Meshtastic project.
 
+THIS IS NOT THE OFFICIAL REPOSITORY, THIS IS JCBENDER'S WORKING COPY, USE AT YOUR OWN RISK!
+
 - **[Building Instructions](https://meshtastic.org/docs/development/firmware/build)**
 - **[Flashing Instructions](https://meshtastic.org/docs/getting-started/flashing-firmware/)**
 
-## Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/a92f097d9197ae853e780ec53d7d126e545629ab.svg "Repobeats analytics image")
